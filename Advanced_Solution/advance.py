@@ -133,7 +133,7 @@ def create_gui(active_users, percentage_females, users_by_age_group):
 
 if __name__ == "__main__":
     # Define the CSV file path and the number of records to generate
-    csv_file_path = "AdvanceData.csv"
+    csv_file_path = "Advanced_Solution/AdvanceData.csv"
     num_records_to_generate = 30
 
     # Step 1: Generate random data and store it in a CSV file

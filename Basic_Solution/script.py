@@ -1,6 +1,5 @@
 import csv
 import matplotlib.pyplot as plt
-import numpy as np
 
 # Initialize counters and age group bins
 active_users = 0
@@ -14,7 +13,7 @@ users_by_age_group = {
 }
 
 # Specify the CSV file path
-csv_file = "Data.csv"
+csv_file = "Basic_Solution/Data.csv"
 
 try:
     # Read data from the CSV file
